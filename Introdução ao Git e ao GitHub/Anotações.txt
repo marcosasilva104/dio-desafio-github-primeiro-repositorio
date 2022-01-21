@@ -1,0 +1,4 @@
+- Este curso foi muito importante para entender os conceito e prática do Tacker e Untracker. 
+- Blocos, Objetos e Tree
+- SHA1
+- etc.
